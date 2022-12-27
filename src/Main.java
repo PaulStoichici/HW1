@@ -8,7 +8,7 @@ public class Main {
         HIGH
     }
     public static void main(String[] args) {
-        Novel n= new Novel(5,"Nuvela","Komedye");
+        Novel n= new Novel(5,"Nuvela","Comedie");
         Album a= new Album(5,"Michael Jackson",PaperQuality.HIGH.toString());
 
 
